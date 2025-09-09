@@ -1,0 +1,14 @@
+D:\Test\SystemTime\SystemTime\bin\Debug\net8.0\SystemTime.exe
+D:\Test\SystemTime\SystemTime\bin\Debug\net8.0\SystemTime.deps.json
+D:\Test\SystemTime\SystemTime\bin\Debug\net8.0\SystemTime.runtimeconfig.json
+D:\Test\SystemTime\SystemTime\bin\Debug\net8.0\SystemTime.dll
+D:\Test\SystemTime\SystemTime\bin\Debug\net8.0\SystemTime.pdb
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.AssemblyInfoInputs.cache
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.AssemblyInfo.cs
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.csproj.CoreCompileInputs.cache
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.dll
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\refint\SystemTime.dll
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.pdb
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\SystemTime.genruntimeconfig.cache
+D:\Test\SystemTime\SystemTime\obj\Debug\net8.0\ref\SystemTime.dll
